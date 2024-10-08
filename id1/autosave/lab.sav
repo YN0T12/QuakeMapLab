@@ -1,0 +1,306 @@
+5
+lab___________________kills:__0/__1____
+4097.000000
+100.000000
+0.000000
+25.000000
+0.000000
+0.000000
+0.000000
+1.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+1
+lab
+38.721842
+m
+mmnmmommommnonmmonqnmmo
+abcdefghijklmnopqrstuvwxyzyxwvutsrqponmlkjihgfedcba
+mmmmmaaaaammmmmaaaaaabcdefgabcdefg
+mamamamamama
+jklmnopqrstuvwxyzyxwvutsrqponmlkj
+nmonqnmomnmomomno
+mmmaaaabcdefgmmmmaaaammmaamm
+mmmaaammmaaammmabcdefaaaammmmabcdefmmmaaaa
+aaaaaaaazzzzzzzz
+mmamammmmammamamaaamammma
+abcdefghijklmnopqrrqponmlkjihgfedcba
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+a
+{
+"self" "1"
+"other" "0"
+"world" "0"
+"time" "38.705841"
+"frametime" "0.016002"
+"force_retouch" "0.000000"
+"mapname" "lab"
+"deathmatch" "0.000000"
+"coop" "0.000000"
+"teamplay" "0.000000"
+"serverflags" "0.000000"
+"total_secrets" "0.000000"
+"total_monsters" "1.000000"
+"found_secrets" "0.000000"
+"killed_monsters" "0.000000"
+"parm1" "4097.000000"
+"parm2" "100.000000"
+"parm3" "0.000000"
+"parm4" "25.000000"
+"parm5" "0.000000"
+"parm6" "0.000000"
+"parm7" "0.000000"
+"parm8" "1.000000"
+"parm9" "0.000000"
+"parm10" "0.000000"
+"parm11" "0.000000"
+"parm12" "0.000000"
+"parm13" "0.000000"
+"parm14" "0.000000"
+"parm15" "0.000000"
+"parm16" "0.000000"
+"v_forward_x" "0.659496"
+"v_forward_y" "0.614528"
+"v_forward_z" "-0.432921"
+"v_up_x" "0.316729"
+"v_up_y" "0.295133"
+"v_up_z" "0.901432"
+"v_right_x" "0.681724"
+"v_right_y" "-0.731609"
+"v_right_z" "-0.000000"
+"trace_allsolid" "0.000000"
+"trace_startsolid" "0.000000"
+"trace_fraction" "0.050275"
+"trace_endpos_x" "47.968750"
+"trace_endpos_y" "-14.617619"
+"trace_endpos_z" "80.880424"
+"trace_plane_normal_x" "-1.000000"
+"trace_plane_normal_y" "0.000000"
+"trace_plane_normal_z" "0.000000"
+"trace_plane_dist" "-48.000000"
+"trace_ent" "0"
+"trace_inopen" "1.000000"
+"trace_inwater" "0.000000"
+"msg_entity" "0"
+"VEC_ORIGIN_x" "0.000000"
+"VEC_ORIGIN_y" "0.000000"
+"VEC_ORIGIN_z" "0.000000"
+"VEC_HULL_MIN_x" "-16.000000"
+"VEC_HULL_MIN_y" "-16.000000"
+"VEC_HULL_MIN_z" "-24.000000"
+"VEC_HULL_MAX_x" "16.000000"
+"VEC_HULL_MAX_y" "16.000000"
+"VEC_HULL_MAX_z" "32.000000"
+"VEC_HULL2_MIN_x" "-32.000000"
+"VEC_HULL2_MIN_y" "-32.000000"
+"VEC_HULL2_MIN_z" "-24.000000"
+"VEC_HULL2_MAX_x" "32.000000"
+"VEC_HULL2_MAX_y" "32.000000"
+"VEC_HULL2_MAX_z" "64.000000"
+"movedist" "0.000000"
+"gameover" "0.000000"
+"string_null" ""
+"empty_float" "0.000000"
+"newmis" "0"
+"activator" "0"
+"damage_attacker" "0"
+"framecount" "2346.000000"
+"skill" "1.000000"
+"enemy_vis" "0.000000"
+"enemy_infront" "0.000000"
+"enemy_range" "0.000000"
+"enemy_yaw" "0.000000"
+"current_yaw" "0.000000"
+"sight_entity" "0"
+"sight_entity_time" "0.000000"
+"multi_ent" "0"
+"multi_damage" "0.000000"
+"lastspawn" "0"
+"bodyque_head" "2"
+"modelindex_eyes" "3.000000"
+"modelindex_player" "2.000000"
+"intermission_running" "0.000000"
+"intermission_exittime" "0.000000"
+"nextmap" ""
+"stemp" "0"
+"otemp" "0"
+"s" "0"
+"old" "0"
+"le1" "0"
+"le2" "0"
+"lightning_end" "0.000000"
+"hknight_type" "0.000000"
+"shub" "0"
+}
+{ // #0
+"modelindex" "1.000000"
+"movetype" "7.000000"
+"solid" "4.000000"
+"classname" "worldspawn"
+"model" "maps/lab.bsp"
+"wad" "..\.\xtras\uake\renchbroom-quake-map-source\UAKE101.WAD"
+}
+{ // #1
+"modelindex" "2.000000"
+"absmin" "830.968750 -1198.847656 31.031250"
+"absmax" "864.968750 -1164.847656 89.031250"
+"movetype" "3.000000"
+"solid" "3.000000"
+"origin" "847.968750 -1181.847656 56.031250"
+"oldorigin" "844.105713 -1183.288818 56.031250"
+"velocity" "0.000000 75.697662 0.000000"
+"angles" "-8.551025 42.978516 6.482820"
+"classname" "player"
+"model" "progs/player.mdl"
+"frame" "6.000000"
+"mins" "-16.000000 -16.000000 -24.000000"
+"maxs" "16.000000 16.000000 32.000000"
+"size" "32.000000 32.000000 56.000000"
+"think" "player_run"
+"nextthink" "38.745209"
+"health" "100.000000"
+"weapon" "1.000000"
+"weaponmodel" "progs/v_shot.mdl"
+"currentammo" "25.000000"
+"ammo_shells" "25.000000"
+"items" "4353.000000"
+"takedamage" "2.000000"
+"view_ofs" "0.000000 0.000000 22.000000"
+"v_angle" "25.653076 42.978516 0.000000"
+"netname" "player"
+"flags" "4616.000000"
+"colormap" "1.000000"
+"team" "1.000000"
+"max_health" "100.000000"
+"watertype" "-1.000000"
+"th_pain" "player_pain"
+"th_die" "PlayerDie"
+"walkframe" "1.000000"
+"attack_finished" "1.245227"
+"jump_flag" "-217.680817"
+"air_finished" "50.705841"
+"dmg" "2.000000"
+}
+{ // #2
+"absmin" "-1.000000 -1.000000 -1.000000"
+"absmax" "1.000000 1.000000 1.000000"
+"classname" "bodyque"
+"owner" "3"
+}
+{ // #3
+"absmin" "-1.000000 -1.000000 -1.000000"
+"absmax" "1.000000 1.000000 1.000000"
+"classname" "bodyque"
+"owner" "4"
+}
+{ // #4
+"absmin" "-1.000000 -1.000000 -1.000000"
+"absmax" "1.000000 1.000000 1.000000"
+"classname" "bodyque"
+"owner" "5"
+}
+{ // #5
+"absmin" "-1.000000 -1.000000 -1.000000"
+"absmax" "1.000000 1.000000 1.000000"
+"classname" "bodyque"
+"owner" "2"
+}
+{ // #6
+"absmin" "-289.000000 -1.000000 23.000000"
+"absmax" "-287.000000 1.000000 25.000000"
+"origin" "-288.000000 0.000000 24.000000"
+"classname" "info_player_start"
+}
+{ // #7
+"modelindex" "28.000000"
+"absmin" "-33.000000 -33.000000 31.031250"
+"absmax" "33.000000 33.000000 121.031250"
+"movetype" "4.000000"
+"solid" "3.000000"
+"origin" "0.000000 0.000000 56.031250"
+"angles" "0.000000 180.000000 0.000000"
+"classname" "monster_demon1"
+"model" "progs/demon.mdl"
+"frame" "12.000000"
+"mins" "-32.000000 -32.000000 -24.000000"
+"maxs" "32.000000 32.000000 64.000000"
+"size" "64.000000 64.000000 88.000000"
+"use" "monster_use"
+"think" "demon1_stand1"
+"nextthink" "38.796638"
+"health" "300.000000"
+"takedamage" "2.000000"
+"view_ofs" "0.000000 0.000000 25.000000"
+"flags" "544.000000"
+"waterlevel" "-1.000000"
+"watertype" "-1.000000"
+"ideal_yaw" "180.000000"
+"yaw_speed" "20.000000"
+"th_stand" "demon1_stand1"
+"th_walk" "demon1_walk1"
+"th_run" "demon1_run1"
+"th_missile" "demon1_jump1"
+"th_melee" "Demon_MeleeAttack"
+"th_pain" "demon1_pain"
+"th_die" "demon_die"
+"pausetime" "100000000.000000"
+}
+{ // #8
+}
+// 9 edicts

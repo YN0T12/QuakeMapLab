@@ -1,0 +1,89 @@
+---- qbsp / ericw-tools 2.0.0-alpha8-29-gb2f23f76 ----
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+Input file: D:\quake-leveldesign-starterkit-20240930-windows\working\quake\lab-compile.map
+Output file: D:\quake-leveldesign-starterkit-20240930-windows\working\quake\lab.bsp
+
+INFO: using built-in palette.
+WARNING: lab-compile.map[line 6]: Unrecognised string escape - \.
+WARNING: lab-compile.map[line 6]: Unrecognised string escape - \e
+WARNING: lab-compile.map[line 6]: Unrecognised string escape - \q
+WARNING: lab-compile.map[line 6]: Unrecognised string escape - \Q
+      3 entities
+      6 unique textures
+     89 texinfos
+    356 unique planes
+
+INFO: world extents calculated to 2680 units
+    125 brushes
+    769 sides
+    135 side bevels
+
+            0 texture frames added
+WARNING: unable to find texture skip
+Processing hull 0...
+    125 SOLID brushes
+    125 brushes total
+    769 visible sides
+INFO: calculating BSP for 125 brushes with 769 sides
+    125 brushes
+    769 visible faces
+    601 nodes
+    578 expensive split nodes
+     23 mid-split nodes
+    602 leaves
+    300 EMPTY leafs
+    302 SOLID leafs
+    602 leafs total
+    20 max tree height
+    11 avg tree height
+    2,644 tree portals
+WARNING: Reached occupant "info_player_start" at (-288 0 24), no filling performed.
+Leak file written to lab.pts
+            5 portals written to lab.leak.prt
+    2,644 tree portals
+    979 sides visible
+    979 makefaces
+    289 merged
+    438 subdivided
+    56 nodes pruned
+    300 EMPTY leafs
+    246 SOLID leafs
+    546 leafs total
+    20 max tree height
+    11 avg tree height
+      995 edges added by tjunctions
+    1,086 faces optimized through MWT
+    3,248 triangles computed from MWT
+      280 faces created via optimization of MWT triangles
+    3,140 edges
+    1,408 faces
+Processing hull 1...
+WARNING: Reached occupant "info_player_start" at (-288 0 24), no filling performed.
+Processing hull 2...
+WARNING: Reached occupant "info_player_start" at (-288 0 24), no filling performed.
+Writing lab.bsp as Quake BSP bsp29
+Wrote lab.bsp
+
+count   lump name    byte size 
+      1 models               64
+    552 planes            11040
+   1519 vertexes          18228
+    545 nodes             13080
+     59 texinfos           2360
+   1408 faces             28160
+  10838 clipnodes         86704
+    301 leafs              8428
+   1538 marksurfaces       3076
+   3141 edges             12564
+   6106 surfedges         24424
+      6 textures          54628
+        lightdata             0
+        visdata               0
+        entdata             240
+
+0.144s seconds elapsed
+
+
