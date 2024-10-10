@@ -7,61 +7,61 @@ Input file: D:\Columbia College Work\Year 2\Semester 1\Game Design II\QuakeMapLa
 Output file: D:\Columbia College Work\Year 2\Semester 1\Game Design II\QuakeMapLab\quake\lab.bsp
 
 INFO: using built-in palette.
-       74 entities
+       89 entities
        19 unique textures
-      382 texinfos
-    1,516 unique planes
+      477 texinfos
+    1,598 unique planes
 
-INFO: world extents calculated to 5320 units
-    1,067 brushes
-    6,500 sides
-    1,456 side bevels
+INFO: world extents calculated to 9048 units
+    1,090 brushes
+    6,642 sides
+    1,464 side bevels
 
             1 texture frames added
 WARNING: unable to find texture skip
 Processing hull 0...
-    1,053 SOLID brushes
+    1,076 SOLID brushes
         8 SKY brushes
-    1,061 brushes total
-    6,464 visible sides
-INFO: calculating BSP for 1061 brushes with 6464 sides
-    1,061 brushes
-    6,464 visible faces
-    12,268 nodes
-     8,854 expensive split nodes
-     3,414 mid-split nodes
-    12,269 leaves
-     6,155 EMPTY leafs
-     1,276 SKY leafs
-     4,838 SOLID leafs
-    12,269 leafs total
+    1,084 brushes total
+    6,606 visible sides
+INFO: calculating BSP for 1084 brushes with 6606 sides
+    1,084 brushes
+    6,606 visible faces
+    12,132 nodes
+     8,719 expensive split nodes
+     3,413 mid-split nodes
+    12,133 leaves
+     6,115 EMPTY leafs
+     1,249 SKY leafs
+     4,769 SOLID leafs
+    12,133 leafs total
     36 max tree height
     16 avg tree height
     6 tiny portals
-    49,165 tree portals
+    48,860 tree portals
 WARNING: Reached occupant "monster_demon1" at (-16 248 -272), no filling performed.
 Leak file written to lab.pts
-           10 portals written to lab.leak.prt
+            9 portals written to lab.leak.prt
     6 tiny portals
-    49,165 tree portals
+    48,860 tree portals
 WARNING: 1 sides not found (use -verbose to display)
-    16,205 sides visible
-    16,205 makefaces
-     3,573 merged
-     3,185 subdivided
-    903 nodes pruned
-     6,155 EMPTY leafs
-     1,276 SKY leafs
-     3,935 SOLID leafs
-    11,366 leafs total
+    16,198 sides visible
+    16,198 makefaces
+     3,596 merged
+     3,215 subdivided
+    897 nodes pruned
+     6,115 EMPTY leafs
+     1,249 SKY leafs
+     3,872 SOLID leafs
+    11,236 leafs total
     36 max tree height
     16 avg tree height
-     9,829 edges added by tjunctions
-    15,513 faces optimized through MWT
-    41,004 triangles computed from MWT
-     2,225 faces created via optimization of MWT triangles
-    38,871 edges
-    18,042 faces
+     9,982 edges added by tjunctions
+    15,511 faces optimized through MWT
+    41,166 triangles computed from MWT
+     2,301 faces created via optimization of MWT triangles
+    39,027 edges
+    18,118 faces
 Processing hull 1...
 WARNING: Reached occupant "monster_demon1" at (-16 248 -272), no filling performed.
 Processing hull 2...
@@ -73,21 +73,21 @@ Wrote lab.bsp
 
 count   lump name    byte size 
       7 models              448
-   2557 planes            51140
-  20331 vertexes         243972
-  11401 nodes            501644
-    292 texinfos          11680
-  18123 faces            507444
-  66050 clipnodes        792600
-   7474 leafs            328856
-  20229 marksurfaces      80916
-  39041 edges            312328
-  77730 surfedges        310920
+   2625 planes            52500
+  22408 vertexes         268896
+  11271 nodes            495924
+    367 texinfos          14680
+  20106 faces            562968
+  68474 clipnodes        821688
+   7407 leafs            325908
+  22364 marksurfaces      89456
+  43104 edges            344832
+  85860 surfedges        343440
      20 textures         222864
         lightdata             0
         visdata               0
-        entdata            4920
+        entdata            5935
 
-1.896s seconds elapsed
+1.942s seconds elapsed
 
 
