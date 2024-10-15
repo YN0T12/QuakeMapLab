@@ -7,62 +7,62 @@ Input file: D:\Columbia College Work\Year 2\Semester 1\Game Design II\QuakeMapLa
 Output file: D:\Columbia College Work\Year 2\Semester 1\Game Design II\QuakeMapLab\quake\lab.bsp
 
 INFO: using built-in palette.
-       91 entities
+      176 entities
        19 unique textures
-      525 texinfos
-    1,828 unique planes
+    2,187 texinfos
+    4,268 unique planes
 
 INFO: world extents calculated to 9048 units
-    1,190 brushes
-    7,234 sides
-    1,674 side bevels
+     1,570 brushes
+    10,336 sides
+     3,349 side bevels
 
             1 texture frames added
 WARNING: unable to find texture skip
 Processing hull 0...
-    1,175 SOLID brushes
+    1,555 SOLID brushes
         8 SKY brushes
-    1,183 brushes total
-    7,192 visible sides
-INFO: calculating BSP for 1183 brushes with 7192 sides
-    1,183 brushes
-    7,192 visible faces
-    13,104 nodes
-     9,524 expensive split nodes
-     3,580 mid-split nodes
-    13,105 leaves
-     6,491 EMPTY leafs
-     1,297 SKY leafs
-     5,317 SOLID leafs
-    13,105 leafs total
-    36 max tree height
-    17 avg tree height
-    6 tiny portals
-    52,515 tree portals
+    1,563 brushes total
+    10,294 visible sides
+INFO: calculating BSP for 1563 brushes with 10294 sides
+     1,563 brushes
+    10,294 visible faces
+    17,782 nodes
+    13,792 expensive split nodes
+     3,990 mid-split nodes
+    17,783 leaves
+     9,270 EMPTY leafs
+     1,336 SKY leafs
+     7,177 SOLID leafs
+    17,783 leafs total
+    49 max tree height
+    19 avg tree height
+    8 tiny portals
+    73,694 tree portals
 WARNING: Reached occupant "monster_demon1" at (-16 248 -272), no filling performed.
 Leak file written to lab.pts
             9 portals written to lab.leak.prt
-    6 tiny portals
-    52,515 tree portals
-    17,100 sides visible
-    17,100 makefaces
-     3,816 merged
-     3,255 subdivided
-    1,087 nodes pruned
-     6,491 EMPTY leafs
-     1,297 SKY leafs
-     4,230 SOLID leafs
-    12,018 leafs total
-    36 max tree height
-    16 avg tree height
-    10,458 edges added by tjunctions
-    16,163 faces optimized through MWT
-    43,004 triangles computed from MWT
-     2,376 faces created via optimization of MWT triangles
-    40,784 edges
-    18,915 faces
+    8 tiny portals
+    73,694 tree portals
+    23,653 sides visible
+    23,653 makefaces
+     5,694 merged
+     3,525 subdivided
+    1,639 nodes pruned
+     9,270 EMPTY leafs
+     1,336 SKY leafs
+     5,538 SOLID leafs
+    16,144 leafs total
+    47 max tree height
+    18 avg tree height
+    13,348 edges added by tjunctions
+    20,071 faces optimized through MWT
+    54,363 triangles computed from MWT
+     3,421 faces created via optimization of MWT triangles
+    52,988 edges
+    24,905 faces
 Processing hull 1...
-WARNING: Reached occupant "monster_demon1" at (-16 248 -272), no filling performed.
+WARNING: Reached occupant "info_player_deathmatch" at (-352 96 472), no filling performed.
 Processing hull 2...
 WARNING: worldspawn at 0 0 0 has long value for key wad (length 410 >= 127)
 LIMITS EXCEEDED ON dclipnode_t::children
@@ -72,21 +72,21 @@ Wrote lab.bsp
 
 count   lump name    byte size 
       8 models              512
-   2909 planes            58180
-  26028 vertexes         312336
-  12059 nodes            530596
-    409 texinfos          16360
-  23613 faces            661164
-  74295 clipnodes        891540
-   7838 leafs            344872
-  25951 marksurfaces     103804
-  50281 edges            402248
- 100202 surfedges        400808
+   6002 planes           120040
+  32008 vertexes         384096
+  16185 nodes            712140
+   1883 texinfos          75320
+  29603 faces            828884
+ 110455 clipnodes       1325460
+  10656 leafs            468864
+  34690 marksurfaces     138760
+  62485 edges            499880
+ 124578 surfedges        498312
      20 textures         222864
         lightdata             0
         visdata               0
-        entdata            6106
+        entdata            6000
 
-2.284s seconds elapsed
+3.522s seconds elapsed
 
 
