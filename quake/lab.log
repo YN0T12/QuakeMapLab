@@ -7,60 +7,63 @@ Input file: D:\Columbia College Work\Year 2\Semester 1\Game Design II\QuakeMapLa
 Output file: D:\Columbia College Work\Year 2\Semester 1\Game Design II\QuakeMapLab\quake\lab.bsp
 
 INFO: using built-in palette.
-      176 entities
+      655 entities
        19 unique textures
-    2,187 texinfos
-    4,268 unique planes
+    5,150 texinfos
+    8,976 unique planes
 
 INFO: world extents calculated to 9048 units
-     1,570 brushes
-    10,336 sides
-     3,349 side bevels
+     3,494 brushes
+    20,837 sides
+     9,480 side bevels
 
             1 texture frames added
 WARNING: unable to find texture skip
 Processing hull 0...
-    1,555 SOLID brushes
+    2,010 SOLID brushes
         8 SKY brushes
-    1,563 brushes total
-    10,294 visible sides
-INFO: calculating BSP for 1563 brushes with 10294 sides
-     1,563 brushes
-    10,294 visible faces
-    17,782 nodes
-    13,792 expensive split nodes
-     3,990 mid-split nodes
-    17,783 leaves
-     9,270 EMPTY leafs
-     1,336 SKY leafs
-     7,177 SOLID leafs
-    17,783 leafs total
+    1,468 MIST | Q2_UNUSED_8 brushes
+    3,486 brushes total
+    20,789 visible sides
+INFO: calculating BSP for 3486 brushes with 20789 sides
+     3,486 brushes
+    20,789 visible faces
+    20,265 nodes
+    18,705 expensive split nodes
+     1,560 mid-split nodes
+    20,266 leaves
+    10,795 EMPTY leafs
+       699 SKY leafs
+     7,137 SOLID leafs
+     1,635 MIST | Q2_UNUSED_8 leafs
+    20,266 leafs total
     49 max tree height
-    19 avg tree height
-    8 tiny portals
-    73,694 tree portals
+    20 avg tree height
+    22 tiny portals
+    91,790 tree portals
 WARNING: Reached occupant "monster_demon1" at (-16 248 -272), no filling performed.
 Leak file written to lab.pts
-            9 portals written to lab.leak.prt
-    8 tiny portals
-    73,694 tree portals
-    23,653 sides visible
-    23,653 makefaces
-     5,694 merged
-     3,525 subdivided
-    1,639 nodes pruned
-     9,270 EMPTY leafs
-     1,336 SKY leafs
-     5,538 SOLID leafs
-    16,144 leafs total
+            7 portals written to lab.leak.prt
+    22 tiny portals
+    91,790 tree portals
+    33,449 sides visible
+    32,213 makefaces
+    10,144 merged
+     3,164 subdivided
+    1,944 nodes pruned
+    10,795 EMPTY leafs
+       699 SKY leafs
+     5,193 SOLID leafs
+     1,635 MIST | Q2_UNUSED_8 leafs
+    18,322 leafs total
     47 max tree height
-    18 avg tree height
-    13,348 edges added by tjunctions
-    20,071 faces optimized through MWT
-    54,363 triangles computed from MWT
-     3,421 faces created via optimization of MWT triangles
-    52,988 edges
-    24,905 faces
+    20 avg tree height
+    15,466 edges added by tjunctions
+    22,659 faces optimized through MWT
+    62,092 triangles computed from MWT
+     4,239 faces created via optimization of MWT triangles
+    62,736 edges
+    29,472 faces
 Processing hull 1...
 WARNING: Reached occupant "info_player_deathmatch" at (-352 96 472), no filling performed.
 Processing hull 2...
@@ -71,22 +74,22 @@ Writing lab.bsp as Quake BSP2 bsp2
 Wrote lab.bsp
 
 count   lump name    byte size 
-      8 models              512
-   6002 planes           120040
-  32008 vertexes         384096
-  16185 nodes            712140
-   1883 texinfos          75320
-  29603 faces            828884
- 110455 clipnodes       1325460
-  10656 leafs            468864
-  34690 marksurfaces     138760
-  62485 edges            499880
- 124578 surfedges        498312
+      9 models              576
+  10092 planes           201840
+  37272 vertexes         447264
+  18369 nodes            808236
+   4464 texinfos         178560
+  34176 faces            956928
+ 139076 clipnodes       1668912
+  13186 leafs            580184
+  43744 marksurfaces     174976
+  72245 edges            577960
+ 142626 surfedges        570504
      20 textures         222864
         lightdata             0
         visdata               0
-        entdata            6000
+        entdata            6933
 
-3.522s seconds elapsed
+4.945s seconds elapsed
 
 
