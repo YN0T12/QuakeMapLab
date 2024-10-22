@@ -6,8 +6,8 @@
 LoadBSPFile: 'lab.bsp'
 BSP is version Quake BSP bsp29
 INFO: using built-in palette.
-  9766 leafs
-  5145 clusters
- 18406 portals
+  8564 leafs
+  4650 clusters
+ 17598 portals
 Calculating Base Vis:
 Calculating Full Vis:

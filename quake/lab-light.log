@@ -3,22 +3,9 @@ LoadBSPFile: 'lab.bsp'
 BSP is version Quake BSP bsp29
 INFO: using built-in palette.
 img::ConvertTextures: WARNING: invalid size data for 
-img::ConvertTextures: WARNING: Texture  duplicated
-img::ConvertTextures: WARNING: Texture  duplicated
-img::ConvertTextures: WARNING: Texture  duplicated
-img::ConvertTextures: WARNING: Texture  duplicated
-img::ConvertTextures: WARNING: Texture  duplicated
 Loading extended texinfo flags from lab.texinfo.json...
-WARNING: lab.bsp[line 3]: Unrecognised string escape - \.
-WARNING: lab.bsp[line 3]: Unrecognised string escape - \e
-WARNING: lab.bsp[line 3]: Unrecognised string escape - \q
-WARNING: lab.bsp[line 3]: Unrecognised string escape - \Q
-WARNING: lab.bsp[line 3]: Unrecognised string escape - \.
-WARNING: lab.bsp[line 3]: Unrecognised string escape - \e
-WARNING: lab.bsp[line 3]: Unrecognised string escape - \q
-WARNING: lab.bsp[line 3]: Unrecognised string escape - \p
-WARNING: lab.bsp[line 3]: Unrecognised string escape - \p
-3 entities read, 0 are lights.
+WARNING: entity at (0 0 32) (weapon_lightning) has empty key/value "target" ""
+196 entities read, 34 are lights.
 
 --- Options Summary ---
     "nocolor" was set to "1" (from command line)
@@ -26,21 +13,23 @@ WARNING: lab.bsp[line 3]: Unrecognised string escape - \p
 DecompressAllVis: invalid visofs for leaf 0
 Embree_TraceInit: Embree version: 3.12.1
 Embree_TraceInit: 
-	0 sky faces
-	3516 solid faces
+	298 sky faces
+	16167 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 0 initial lights
-SetupLights: 0 after surface lights
-SetupLights: 0 after jittering
-Final count: 0 lights, 0 suns in use.
+SetupLights: 34 initial lights
+SetupLights: 34 after surface lights
+SetupLights: 34 after jittering
+Final count: 34 lights, 0 suns in use.
+Colored light entities/settings detected: .lit output enabled.
 0 surface light points in use.
-lightmap size (total): 0
+lightmap size (total): 1104544
 Lighting Completed.
 
+Writing lab.lit
 0 switchable light styles (32 max)
 Writing lab.bsp as Quake BSP bsp29
-0.081s seconds elapsed
+0.699s seconds elapsed
 0 empty lightmaps
 
 
