@@ -7,9 +7,9 @@ Input file: D:\Columbia College Work\Year 2\Semester 1\Game Design II\QuakeMapLa
 Output file: D:\Columbia College Work\Year 2\Semester 1\Game Design II\QuakeMapLab\quake\lab.bsp
 
 INFO: using built-in palette.
-      785 entities
+      786 entities
        46 unique textures
-    5,045 texinfos
+    5,043 texinfos
     8,566 unique planes
 
 INFO: world extents calculated to 9048 units
@@ -20,9 +20,10 @@ INFO: world extents calculated to 9048 units
             0 texture frames added
 WARNING: unable to find texture skip
 Processing hull 0...
-    1,787 SOLID brushes
+    1,786 SOLID brushes
         7 SKY brushes
     1,646 MIST | Q2_UNUSED_8 brushes
+        1 DETAIL_WALL | Q2_UNUSED_8 brushes
     3,440 brushes total
     19,708 visible sides
 INFO: calculating BSP for 3440 brushes with 19708 sides
@@ -34,8 +35,9 @@ INFO: calculating BSP for 3440 brushes with 19708 sides
     20,657 leaves
     10,810 EMPTY leafs
        981 SKY leafs
-     7,044 SOLID leafs
+     7,042 SOLID leafs
      1,822 MIST | Q2_UNUSED_8 leafs
+         2 DETAIL_WALL | Q2_UNUSED_8 leafs
     20,657 leafs total
     47 max tree height
     20 avg tree height
@@ -44,47 +46,48 @@ INFO: calculating BSP for 3440 brushes with 19708 sides
     1,137 outside leaves
     0 detail filled leafs
      3,440 brushes
-    14,539 visible faces
-     5,169 non-visible faces
-    14,042 nodes
+    14,543 visible faces
+     5,165 non-visible faces
+    14,044 nodes
      2,015 non-visible nodes
-    14,042 expensive split nodes
-    14,043 leaves
-     6,969 EMPTY leafs
+    14,044 expensive split nodes
+    14,045 leaves
+     6,970 EMPTY leafs
        281 SKY leafs
-     4,984 SOLID leafs
+     4,981 SOLID leafs
      1,809 MIST | Q2_UNUSED_8 leafs
-    14,043 leafs total
+         4 DETAIL_WALL | Q2_UNUSED_8 leafs
+    14,045 leafs total
     47 max tree height
     21 avg tree height
     18 tiny portals
-    68,297 tree portals
+    68,343 tree portals
     494 outside leaves
     0 detail filled leafs
     18 tiny portals
-    68,297 tree portals
-    26,583 sides visible
-    25,209 makefaces
-     9,790 merged
+    68,343 tree portals
+    26,613 sides visible
+    25,234 makefaces
+     9,805 merged
      2,265 subdivided
     2,419 nodes pruned
     1 tiny portals
-     8,565 player-occupiable leaves
-     4,648 clusters of leaves
-    17,567 vis portals
-     3,059 SOLID leafs
+     8,566 player-occupiable leaves
+     4,643 clusters of leaves
+    17,545 vis portals
+     3,060 SOLID leafs
        281 SKY leafs
-     6,475 EMPTY leafs
+     6,476 EMPTY leafs
      1,809 MIST | Q2_UNUSED_8 leafs
-    11,624 leafs total
+    11,626 leafs total
     44 max tree height
     19 avg tree height
-    12,316 edges added by tjunctions
-    15,761 faces optimized through MWT
-    44,926 triangles computed from MWT
-     3,666 faces created via optimization of MWT triangles
-    45,761 edges
-    21,350 faces
+    12,301 edges added by tjunctions
+    15,769 faces optimized through MWT
+    44,928 triangles computed from MWT
+     3,659 faces created via optimization of MWT triangles
+    45,794 edges
+    21,352 faces
 Processing hull 1...
 Processing hull 2...
 WARNING: worldspawn at 0 0 0 has long value for key wad (length 667 >= 127)
@@ -94,20 +97,20 @@ Wrote lab.bsp
 count   lump name    byte size 
       5 models              320
    7034 planes           140680
-  28773 vertexes         345276
-  11668 nodes            280032
-   4290 texinfos         171600
-  26058 faces            521160
+  28779 vertexes         345348
+  11670 nodes            280080
+   4291 texinfos         171640
+  26060 faces            521200
   16235 clipnodes        129880
-   8615 leafs            241220
-  35086 marksurfaces      70172
-  55280 edges            221120
- 108581 surfedges        434324
+   8616 leafs            241248
+  35094 marksurfaces      70188
+  55313 edges            221252
+ 108588 surfedges        434352
      46 textures         524908
         lightdata             0
         visdata               0
         entdata           13698
 
-5.394s seconds elapsed
+5.308s seconds elapsed
 
 
