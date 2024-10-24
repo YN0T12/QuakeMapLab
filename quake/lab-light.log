@@ -1,4 +1,4 @@
----- light / ericw-tools 2.0.0-alpha8-29-gb2f23f76 ----
+---- light / ericw-tools 2.0.0-alpha8-32-g47faf6c0 ----
 LoadBSPFile: 'lab.bsp'
 BSP is version Quake BSP bsp29
 INFO: using built-in palette.
@@ -16,9 +16,9 @@ WARNING: worldspawn key _sunlight has invalid value of ""
 DecompressAllVis: invalid visofs for leaf 0
 Embree_TraceInit: Embree version: 3.12.1
 Embree_TraceInit: 
-	328 sky faces
-	15641 solid faces
-	379 filtered faces
+	287 sky faces
+	16005 solid faces
+	384 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 135 initial lights
 SetupLights: 135 after surface lights
@@ -27,13 +27,13 @@ WARNING: couldn't nudge light out of solid at -64 1144 392
 Final count: 135 lights, 1 suns in use.
 Colored light entities/settings detected: .lit output enabled.
 0 surface light points in use.
-lightmap size (total): 6433248
+lightmap size (total): 6590912
 Lighting Completed.
 
 Writing lab.lit
 0 switchable light styles (32 max)
 Writing lab.bsp as Quake BSP bsp29
-0.933s seconds elapsed
-4663 empty lightmaps
+1.059s seconds elapsed
+4662 empty lightmaps
 
 
