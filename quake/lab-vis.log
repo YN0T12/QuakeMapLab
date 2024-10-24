@@ -1,4 +1,4 @@
----- vis / ericw-tools 2.0.0-alpha8-29-gb2f23f76 ----
+---- vis / ericw-tools 2.0.0-alpha8-32-g47faf6c0 ----
 
 --- Options Summary ---
     "nocolor" was set to "1" (from command line)
@@ -6,8 +6,9 @@
 LoadBSPFile: 'lab.bsp'
 BSP is version Quake BSP bsp29
 INFO: using built-in palette.
-  8564 leafs
-  4650 clusters
- 17598 portals
+  8279 leafs
+  4363 clusters
+ 16842 portals
+State file is out of date, will be overwritten
 Calculating Base Vis:
 Calculating Full Vis:

@@ -3,11 +3,12 @@ LoadBSPFile: 'lab.bsp'
 BSP is version Quake BSP bsp29
 INFO: using built-in palette.
 img::ConvertTextures: WARNING: invalid size data for 
+img::ConvertTextures: WARNING: Texture  duplicated
 Loading extended texinfo flags from lab.texinfo.json...
 WARNING: entity at () (worldspawn) has empty key/value "_sunlight" ""
 WARNING: entity at (0 0 32) (weapon_lightning) has empty key/value "target" ""
 WARNING: worldspawn key _sunlight has invalid value of ""
-303 entities read, 135 are lights.
+302 entities read, 135 are lights.
 
 --- Options Summary ---
     "nocolor" was set to "1" (from command line)
@@ -16,24 +17,43 @@ WARNING: worldspawn key _sunlight has invalid value of ""
 DecompressAllVis: invalid visofs for leaf 0
 Embree_TraceInit: Embree version: 3.12.1
 Embree_TraceInit: 
-	287 sky faces
-	16005 solid faces
-	384 filtered faces
+	139 sky faces
+	14341 solid faces
+	377 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 135 initial lights
 SetupLights: 135 after surface lights
 SetupLights: 135 after jittering
 WARNING: couldn't nudge light out of solid at -64 1144 392
+WARNING: couldn't nudge light out of solid at -904 728 824
+WARNING: couldn't nudge light out of solid at -600 360 824
+WARNING: couldn't nudge light out of solid at -312 344 824
+WARNING: couldn't nudge light out of solid at 104 440 824
+WARNING: couldn't nudge light out of solid at 680 360 824
+WARNING: couldn't nudge light out of solid at 552 792 824
+WARNING: couldn't nudge light out of solid at 360 984 824
+WARNING: couldn't nudge light out of solid at -40 -104 824
+WARNING: couldn't nudge light out of solid at 552 -120 824
+WARNING: couldn't nudge light out of solid at 568 -632 824
+WARNING: couldn't nudge light out of solid at 168 -584 824
+WARNING: couldn't nudge light out of solid at -376 -424 824
+WARNING: couldn't nudge light out of solid at -984 -360 824
+WARNING: couldn't nudge light out of solid at -352 1208 824
+WARNING: couldn't nudge light out of solid at -528 1208 824
+WARNING: couldn't nudge light out of solid at -696 1208 824
+WARNING: couldn't nudge light out of solid at -352 -1040 824
+WARNING: couldn't nudge light out of solid at -528 -1040 824
+WARNING: couldn't nudge light out of solid at -696 -1040 824
 Final count: 135 lights, 1 suns in use.
 Colored light entities/settings detected: .lit output enabled.
 0 surface light points in use.
-lightmap size (total): 6590912
+lightmap size (total): 1804384
 Lighting Completed.
 
 Writing lab.lit
 0 switchable light styles (32 max)
 Writing lab.bsp as Quake BSP bsp29
-1.059s seconds elapsed
-4662 empty lightmaps
+0.966s seconds elapsed
+6 empty lightmaps
 
 
