@@ -6,18 +6,8 @@
 LoadBSPFile: 'lab.bsp'
 BSP is version Quake BSP bsp29
 INFO: using built-in palette.
-  8279 leafs
-  4363 clusters
- 16842 portals
-State file is out of date, will be overwritten
+  8243 leafs
+  4327 clusters
+ 16796 portals
 Calculating Base Vis:
 Calculating Full Vis:
-Expanding clusters...
-average leafs visible: 4057
-c_noclip: 0
-c_chains: 4598173260
-visdatasize:2323777  compressed from 8568765
-Writing lab.bsp as Quake BSP bsp29
-2892.79s elapsed
-
-

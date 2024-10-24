@@ -17,85 +17,87 @@ fs::addArchive: WARNING: archive 'D:/Columbia College Work/Year 2/Semester 1/Gam
 fs::addArchive: WARNING: archive 'D:/Columbia College Work/Year 2/Semester 1/Game Design II/QuakeMapLab/WADs/rmq_trans.wad' not found
 fs::addArchive: WARNING: archive 'D:/Columbia College Work/Year 2/Semester 1/Game Design II/QuakeMapLab/WADs/jug.wad' not found
 fs::addArchive: WARNING: archive 'D:/Columbia College Work/Year 2/Semester 1/Game Design II/QuakeMapLab/WADs/kj_ogro_ice.wad' not found
-      898 entities
-       47 unique textures
-    5,250 texinfos
-    8,634 unique planes
+    1,090 entities
+       46 unique textures
+    5,315 texinfos
+    8,652 unique planes
 
 INFO: world extents calculated to 5320 units
-     3,505 brushes
-    20,140 sides
-    10,421 side bevels
+     3,536 brushes
+    20,304 sides
+    10,471 side bevels
 
             0 texture frames added
 WARNING: unable to find texture skip
-WARNING: unable to find texture sky1
 Processing hull 0...
-    1,844 SOLID brushes
-        7 SKY brushes
-    1,646 MIST | Q2_UNUSED_8 brushes
-    3,497 brushes total
-    20,094 visible sides
-INFO: calculating BSP for 3497 brushes with 20094 sides
-     3,497 brushes
-    20,094 visible faces
-    20,653 nodes
-    18,318 expensive split nodes
-     2,335 mid-split nodes
-    20,654 leaves
-    10,892 EMPTY leafs
-       795 SKY leafs
-     7,102 SOLID leafs
-     1,865 MIST | Q2_UNUSED_8 leafs
-    20,654 leafs total
-    44 max tree height
+    1,837 SOLID brushes
+       10 SKY brushes
+    1,658 MIST | Q2_UNUSED_8 brushes
+       13 DETAIL_WALL | Q2_UNUSED_8 brushes
+    3,518 brushes total
+    20,204 visible sides
+INFO: calculating BSP for 3518 brushes with 20204 sides
+     3,518 brushes
+    20,204 visible faces
+    21,126 nodes
+    17,875 expensive split nodes
+     3,251 mid-split nodes
+    21,127 leaves
+    11,229 EMPTY leafs
+       822 SKY leafs
+     7,110 SOLID leafs
+     1,945 MIST | Q2_UNUSED_8 leafs
+        21 DETAIL_WALL | Q2_UNUSED_8 leafs
+    21,127 leafs total
+    47 max tree height
     20 avg tree height
-    20 tiny portals
-    93,149 tree portals
-    1,644 outside leaves
+    44 tiny portals
+    94,408 tree portals
+    1,519 outside leaves
     0 detail filled leafs
-     3,497 brushes
-    14,287 visible faces
-     5,807 non-visible faces
-    14,112 nodes
-     2,418 non-visible nodes
-    14,112 expensive split nodes
-    14,113 leaves
-     7,046 EMPTY leafs
-       158 SKY leafs
-     5,104 SOLID leafs
-     1,805 MIST | Q2_UNUSED_8 leafs
-    14,113 leafs total
-    48 max tree height
+     3,518 brushes
+    14,642 visible faces
+     5,562 non-visible faces
+    14,057 nodes
+     2,311 non-visible nodes
+    14,057 expensive split nodes
+    14,058 leaves
+     7,060 EMPTY leafs
+       132 SKY leafs
+     5,036 SOLID leafs
+     1,815 MIST | Q2_UNUSED_8 leafs
+        15 DETAIL_WALL | Q2_UNUSED_8 leafs
+    14,058 leafs total
+    49 max tree height
     21 avg tree height
-    20 tiny portals
-    68,847 tree portals
-    730 outside leaves
+    19 tiny portals
+    68,908 tree portals
+    681 outside leaves
     0 detail filled leafs
-    20 tiny portals
-    68,847 tree portals
-    25,838 sides visible
-    24,472 makefaces
-     9,518 merged
-     1,541 subdivided
-    2,885 nodes pruned
+    19 tiny portals
+    68,908 tree portals
+    26,203 sides visible
+    24,808 makefaces
+     9,693 merged
+     1,623 subdivided
+    2,798 nodes pruned
     2 tiny portals
-     8,279 player-occupiable leaves
-     4,363 clusters of leaves
-    16,842 vis portals
-     2,949 SOLID leafs
-       158 SKY leafs
-     6,316 EMPTY leafs
-     1,805 MIST | Q2_UNUSED_8 leafs
-    11,228 leafs total
-    45 max tree height
+     8,326 player-occupiable leaves
+     4,329 clusters of leaves
+    16,859 vis portals
+     2,934 SOLID leafs
+       132 SKY leafs
+     6,379 EMPTY leafs
+     1,815 MIST | Q2_UNUSED_8 leafs
+    11,260 leafs total
+    46 max tree height
     19 avg tree height
-    10,780 edges added by tjunctions
-    14,603 faces optimized through MWT
-    41,064 triangles computed from MWT
-     3,254 faces created via optimization of MWT triangles
-    42,071 edges
-    19,749 faces
+    11,014 edges added by tjunctions
+    14,828 faces optimized through MWT
+    41,754 triangles computed from MWT
+     3,290 faces created via optimization of MWT triangles
+    42,748 edges
+    20,028 faces
 Processing hull 1...
 Processing hull 2...
 WARNING: worldspawn at 0 0 0 has long value for key wad (length 1306 >= 127)
@@ -104,21 +106,21 @@ Wrote lab.bsp
 
 count   lump name    byte size 
       4 models              256
-   7070 planes           141400
-  22237 vertexes         266844
-  11267 nodes            270408
-   4391 texinfos         175640
-  19795 faces            395900
-  15639 clipnodes        125112
-   8323 leafs            233044
-  28513 marksurfaces      57026
-  42166 edges            168664
-  82638 surfedges        330552
-     47 textures         540552
+   7111 planes           142220
+  22651 vertexes         271812
+  11319 nodes            271656
+   4445 texinfos         177800
+  20095 faces            401900
+  16759 clipnodes        134072
+   8390 leafs            234920
+  28858 marksurfaces      57716
+  42891 edges            171564
+  83992 surfedges        335968
+     46 textures         540548
         lightdata             0
         visdata               0
-        entdata           23370
+        entdata           34592
 
-5.368s seconds elapsed
+4.803s seconds elapsed
 
 
