@@ -4,32 +4,36 @@ BSP is version Quake BSP bsp29
 INFO: using built-in palette.
 img::ConvertTextures: WARNING: invalid size data for 
 Loading extended texinfo flags from lab.texinfo.json...
+WARNING: entity at () (worldspawn) has empty key/value "_sunlight" ""
 WARNING: entity at (0 0 32) (weapon_lightning) has empty key/value "target" ""
-196 entities read, 34 are lights.
+WARNING: worldspawn key _sunlight has invalid value of ""
+303 entities read, 135 are lights.
 
 --- Options Summary ---
     "nocolor" was set to "1" (from command line)
+    "light" was set to "25.000000" (from map)
 
 DecompressAllVis: invalid visofs for leaf 0
 Embree_TraceInit: Embree version: 3.12.1
 Embree_TraceInit: 
-	298 sky faces
-	16167 solid faces
-	0 filtered faces
+	328 sky faces
+	15641 solid faces
+	379 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 34 initial lights
-SetupLights: 34 after surface lights
-SetupLights: 34 after jittering
-Final count: 34 lights, 0 suns in use.
+SetupLights: 135 initial lights
+SetupLights: 135 after surface lights
+SetupLights: 135 after jittering
+WARNING: couldn't nudge light out of solid at -64 1144 392
+Final count: 135 lights, 1 suns in use.
 Colored light entities/settings detected: .lit output enabled.
 0 surface light points in use.
-lightmap size (total): 1104544
+lightmap size (total): 6433248
 Lighting Completed.
 
 Writing lab.lit
 0 switchable light styles (32 max)
 Writing lab.bsp as Quake BSP bsp29
-0.699s seconds elapsed
-0 empty lightmaps
+0.933s seconds elapsed
+4663 empty lightmaps
 
 
