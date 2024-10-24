@@ -14,7 +14,6 @@ WARNING: worldspawn key _sunlight has invalid value of ""
     "nocolor" was set to "1" (from command line)
     "light" was set to "25.000000" (from map)
 
-DecompressAllVis: invalid visofs for leaf 0
 Embree_TraceInit: Embree version: 3.12.1
 Embree_TraceInit: 
 	139 sky faces
@@ -47,13 +46,13 @@ WARNING: couldn't nudge light out of solid at -696 -1040 824
 Final count: 135 lights, 1 suns in use.
 Colored light entities/settings detected: .lit output enabled.
 0 surface light points in use.
-lightmap size (total): 1804384
+lightmap size (total): 1804368
 Lighting Completed.
 
 Writing lab.lit
 0 switchable light styles (32 max)
 Writing lab.bsp as Quake BSP bsp29
-0.966s seconds elapsed
+1.308s seconds elapsed
 6 empty lightmaps
 
 

@@ -12,3 +12,12 @@ INFO: using built-in palette.
 State file is out of date, will be overwritten
 Calculating Base Vis:
 Calculating Full Vis:
+Expanding clusters...
+average leafs visible: 4057
+c_noclip: 0
+c_chains: 4598173260
+visdatasize:2323777  compressed from 8568765
+Writing lab.bsp as Quake BSP bsp29
+2892.79s elapsed
+
+
