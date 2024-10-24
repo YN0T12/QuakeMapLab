@@ -1,8 +1,3 @@
-These are textures that were made for the Remakequake project, now defunct.
+I've added the 4 wads that I'm pretty sure you can't find on any wesbites.
 
-They were painted by various team members including ijed, Gb and a couple by OTP.
-
-They were designed to compliment and expand upon the original id1 texture sets.
-
-Free to use as you see fit, no responsability is taken for anything.
-
+The two that don't have readmes are by Killjoy (who modified the orginal Ogro tex) and Daz (?) (clockwork.wad)
