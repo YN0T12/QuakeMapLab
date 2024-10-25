@@ -1,11 +1,11 @@
----- light / ericw-tools 2.0.0-alpha8-32-g47faf6c0 ----
+---- light / ericw-tools 2.0.0-alpha8-29-gb2f23f76 ----
 LoadBSPFile: 'lab.bsp'
 BSP is version Quake BSP bsp29
 INFO: using built-in palette.
 img::ConvertTextures: WARNING: invalid size data for 
 Loading extended texinfo flags from lab.texinfo.json...
 WARNING: entity at (0 0 32) (weapon_lightning) has empty key/value "target" ""
-472 entities read, 305 are lights.
+474 entities read, 307 are lights.
 
 --- Options Summary ---
     "nocolor" was set to "1" (from command line)
@@ -14,25 +14,25 @@ WARNING: entity at (0 0 32) (weapon_lightning) has empty key/value "target" ""
 DecompressAllVis: invalid visofs for leaf 0
 Embree_TraceInit: Embree version: 3.12.1
 Embree_TraceInit: 
-	109 sky faces
-	14629 solid faces
-	356 filtered faces
+	94 sky faces
+	14612 solid faces
+	357 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 305 initial lights
-SetupLights: 305 after surface lights
-SetupLights: 305 after jittering
+SetupLights: 307 initial lights
+SetupLights: 307 after surface lights
+SetupLights: 307 after jittering
 WARNING: couldn't nudge light out of solid at -64 1144 392
-Final count: 305 lights, 1 suns in use.
+Final count: 307 lights, 1 suns in use.
 Colored light entities/settings detected: .lit output enabled.
 0 surface light points in use.
 WARNING: a face has exceeded max light styles (4). Use -verbose to find which faces.
-lightmap size (total): 2293616
+lightmap size (total): 2320720
 Lighting Completed.
 
 Writing lab.lit
 0 switchable light styles (32 max)
 Writing lab.bsp as Quake BSP bsp29
-0.734s seconds elapsed
+0.726s seconds elapsed
 6 empty lightmaps
 
 
