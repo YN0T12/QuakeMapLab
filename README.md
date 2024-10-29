@@ -2,7 +2,7 @@
 
 The Laboratory is a Quake multiplayer deathmatch map for 8-10 players.
 
-[![image](https://github.com/user-attachments/assets/c8f82c22-25a2-4fa4-817b-8c3aa2144d0a)](https://www.youtube.com/watch?v=sw07BhtMwTY)
+[![image](https://github.com/user-attachments/assets/c8f82c22-25a2-4fa4-817b-8c3aa2144d0a)](https://www.youtube.com/watch?v=sw07BhtMwTY) (Update with a Youtube Video of the map)
 
 Explore a decaying laboratory abandoned by its scientists after a freak accident occurred leaving everyone working inside dead.
 ## 
