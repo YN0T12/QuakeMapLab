@@ -39,4 +39,5 @@ This map had a large tower with ramps to climb up and balconies to shoot down fr
 This however sounds really campy (which it was) which is where the benefit of Quake comes in. In Quake when you're low on ammo or health you need to pick up items to refill either one. So if I made a high vantage point that players wanted to protect I needed to make sure they eventually had to come out of hiding and collect these items to refill. 
 
 This idea eventually came to be the metal catwalks. Originally I was going to dedicate a whole floor to this idea being the Attic seen in the top-down sketches but it ended up making the map too large and I made the floor too difficult to find.
-<p align="right">(<a href="README.md">back to readme</a>)</p>
+<p align="right">(<a href="README.md">back</a>)</p>
+<p align="right">(<a href="blockout.md">forward</a>)</p>
