@@ -13,7 +13,7 @@ fs::addArchive: WARNING: archive 'C:/Users/Mallios/Documents/GitHub/QuakeMapLab/
 fs::addArchive: WARNING: archive 'C:/Users/Mallios/Documents/GitHub/QuakeMapLab/WADs/rmq_trans.wad' not found
 fs::addArchive: WARNING: archive 'C:/Users/Mallios/Documents/GitHub/QuakeMapLab/WADs/jug.wad' not found
 fs::addArchive: WARNING: archive 'C:/Users/Mallios/Documents/GitHub/QuakeMapLab/WADs/kj_ogro_ice.wad' not found
-    1,148 entities
+    1,152 entities
        52 unique textures
     5,931 texinfos
     9,924 unique planes
@@ -74,7 +74,7 @@ INFO: calculating BSP for 3586 brushes with 21004 sides
     75,020 tree portals
     28,355 sides visible
     26,846 makefaces
-    10,667 merged
+    10,665 merged
      1,628 subdivided
     3,027 nodes pruned
     22 tiny portals
@@ -90,11 +90,11 @@ INFO: calculating BSP for 3586 brushes with 21004 sides
     20 avg tree height
          1 edges degenerated
     11,309 edges added by tjunctions
-    15,381 faces optimized through MWT
-    43,122 triangles computed from MWT
+    15,383 faces optimized through MWT
+    43,126 triangles computed from MWT
      3,305 faces created via optimization of MWT triangles
-    45,022 edges
-    21,112 faces
+    45,026 edges
+    21,114 faces
 Processing hull 1...
 Processing hull 2...
 WARNING: worldspawn at 0 0 0 has long value for key wad (length 1306 >= 127)
@@ -104,20 +104,20 @@ Wrote lab.bsp
 count   lump name    byte size 
       4 models              256
    8443 planes           168860
-  23798 vertexes         285576
+  23800 vertexes         285600
   12159 nodes            291816
    5004 texinfos         200160
-  21190 faces            423800
+  21192 faces            423840
   18903 clipnodes        151224
    9202 leafs            257656
-  30845 marksurfaces      61690
-  45189 edges            180756
-  88088 surfedges        352352
+  30816 marksurfaces      61632
+  45193 edges            180772
+  88096 surfedges        352384
      52 textures         606092
         lightdata             0
         visdata               0
-        entdata           34037
+        entdata           34285
 
-5.356s seconds elapsed
+6.066s seconds elapsed
 
 
