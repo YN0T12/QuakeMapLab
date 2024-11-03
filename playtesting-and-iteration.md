@@ -17,7 +17,6 @@ Unfortunately, I wasn't able to get as much playtesting as I liked after this ve
 This version of the map saw the addition of decorations. Filling the empty rooms and spaces with props and set pieces helping the players not get so lost in the repeating white empty rooms. This also involved filling out large empty spaces with cover for players to hide behind.
 
 <img src="https://cdn.discordapp.com/attachments/885551638356570112/1301370023981355018/image.png?ex=67243ac8&is=6722e948&hm=1c597294e88d033f54214056516fedc54a17ab23031d790efd4f3142bd00d9d7&" width="500" height="300"> <img src="https://cdn.discordapp.com/attachments/885551638356570112/1301370322028855306/image.png?ex=67243b0f&is=6722e98f&hm=664a888ad9af2bf9d97e353a9b5eb3deeb7edb0fca29d70c79f691e77cc73e12&" width="500" height="300">
-
 <img src="https://cdn.discordapp.com/attachments/885551638356570112/1301370405046456430/image.png?ex=67243b22&is=6722e9a2&hm=43f2cce11ad2ea9a741e810517c15dead7adf63ed78256875a5c6a36836e1fb6&" width="500" height="300"> <img src="https://cdn.discordapp.com/attachments/885551638356570112/1301372492186652682/image.png?ex=67243d14&is=6722eb94&hm=91ea24aa34561d70678a48c98387c30c045fcaa3be61f941c5994be9e197e0d1&" width="500" height="300">
 
 Adding pipes and vents along the walls made the place feel more real and industrial. Potted plants as well as chairs and tables made it seem more welcoming to guests and gave employees a place to go during their breaks. And my favorite addition was the lab tables. This really helped to sell the idea that you were inside a lab and not some office building. These tables also helped fill out large empty spaces with some much-needed cover.
@@ -70,6 +69,8 @@ The removal of the Basement is another story. While I do think it didn't add any
 <img src="https://cdn.discordapp.com/attachments/885551638356570112/1301581971725750363/image.png?ex=67284bec&is=6726fa6c&hm=24663f0b3d5296b1a6564d3f2247eeb0cb4190905354c3c1ae8da87f3d54a887&" width="500" height="300">
 
 As for the textures and lighting I did manage to get my first pass of it done in time despite all the layout changes. I think that texturing turned out great but the lighting took a hit from the lack of time. A lot of the inside map ended up too dark especially the rooms not exposed to sunlight from the ceiling and windows. While the outside of the map ended up too bright. That and all the snowy textures made the map blinding when stepping outside. (see: [Textures and Lighting](textures-and-lighting.md))
+
+<img src="https://cdn.discordapp.com/attachments/885551638356570112/1301575741208531064/image.png?ex=6728461e&is=6726f49e&hm=3cd294b7613dc64ffe6d0a0ee7dd15032928051ec82c8c896537c585135a3010&" width="500" height="300"> <img src="https://cdn.discordapp.com/attachments/885551638356570112/1301581010508451911/image.png?ex=67284b07&is=6726f987&hm=20fdd43307ab8a9417c336e2f02c3750e295ebe0b77e8aa294490ee57c55efef&" width="500" height="300">
 
 But what did the playtesters think?
 
