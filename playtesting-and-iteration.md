@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e16c0e90-345f-4dc0-8b34-0399fb52023e)# Playtesting and Iteration
+# Playtesting and Iteration
 
 ## Playtesting Method
 
